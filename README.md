@@ -5,6 +5,8 @@
 - 👨🏻‍🎓 Estudando Sistemas de Informação - Uninove
 - 😄 Pronouns: ela/dela
 
+ ##
+
 <div align="30">
   <a href="https://github.com/Dannydlira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dannydlira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

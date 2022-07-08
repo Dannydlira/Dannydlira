@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Daniela Lira 👋
 
 - 🔭 No momento estou em busca de recolocação no mercado de trabalho.
-- 🌱 Estou estudando JavaScript/CSS/HTML/React
+- 🌱 Estou estudando JavaScript/CSS/HTML/React e Java
 - 👨🏻‍🎓 Estudando Sistemas de Informação - Uninove
 - 😄 Pronouns: ela/dela
 

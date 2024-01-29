@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Daniela Lira 👋
 
 - 🔭 No momento estou em busca de recolocação no mercado de trabalho.
-- 🌱 Estou estudando JavaScript/CSS/HTML/React e Java
-- 👨🏻‍🎓 Estudando Sistemas de Informação - Uninove
+- 🌱 Estou participando do BootCamp Desenvolvimento Frontend com Angular da DIO.
+- 👨🏻‍🎓 Formada em Sistemas de Informação - Uninove
 
 ##
 
